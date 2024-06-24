@@ -1,6 +1,8 @@
 ## 你好 / こんにちは / Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiritai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+|Github State|Skills|Top Language|
+|:-:|:-:|:-:|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiritai&show_icons=true&theme=dark&card_width=320\&include_all_commits=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java,python,v,scala,rust,react,svelte,graphql,prisma,firebase,tailwindcss,vscode,docker&perline=4)](https://skillicons.dev)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiritai&theme=transparent&layout=compact&langs_count=8&card_width=320)](https://github.com/anuraghazra/github-readme-stats)|
 
 <!--
 **Shiritai/Shiritai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
