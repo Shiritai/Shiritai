@@ -2,7 +2,7 @@
 
 |Github State|Skills|Top Language|
 |:-:|:-:|:-:|
-|[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=Shiritai&show_icons=true&theme=dark&card_width=320&show=reviews,prs_merged&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|[![My Skills](https://skillicons.dev/icons?i=svelte,react,tailwindcss,vite,vscode,git,tauri,arch,prisma,postgres,firebase,cloudflare,docker,kubernetes,ros,pytorch&perline=4)](https://skillicons.dev)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=Shiritai&theme=transparent&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook,makefile,processing,assembly,javascript,css,html,lua)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=Shiritai&show_icons=true&theme=dracula&card_width=320&show=reviews,prs_merged&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|[![My Skills](https://skillicons.dev/icons?i=svelte,react,tailwindcss,vite,vscode,git,tauri,arch,prisma,postgres,firebase,cloudflare,docker,kubernetes,ros,pytorch&perline=4)](https://skillicons.dev)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=Shiritai&theme=transparent&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook,makefile,processing,assembly,javascript,css,html,lua)](https://github.com/anuraghazra/github-readme-stats)|
 
 <!--
 **Shiritai/Shiritai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
